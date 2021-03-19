@@ -1,0 +1,7 @@
+﻿  8.4.cpp
+C:\Домашки\ПП\5 mpi\Project1\Project1\8.4.cpp(12,12): warning C4305: =: усечение из "double" в "float"
+C:\Домашки\ПП\5 mpi\Project1\Project1\8.4.cpp(28,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Домашки\ПП\5 mpi\Project1\Project1\8.4.cpp(32,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Домашки\ПП\5 mpi\Project1\Project1\8.4.cpp(36,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Домашки\ПП\5 mpi\Project1\Project1\8.4.cpp(8,34): warning C4101: x1: неиспользованная локальная переменная
+  Project1.vcxproj -> C:\Домашки\ПП\5 mpi\Project1\Debug\Project1.exe
